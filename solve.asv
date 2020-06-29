@@ -1,0 +1,12 @@
+x0=0.5;
+y0=0.5;
+l1=0.8;
+l2=0.8;
+l3=0.3;
+
+syms x y z
+Eq1 = -l1*sind(x)+l2*sind(y-x)+l3*sind(y+z+x) == x0 ;
+Eq2 = l1*cosd(x)+l2*cosd(y-x)+l3*cosd(y+z+x) == y0 ;
+
+z1=solve(Eq1,z);
+z2=solve(Eq2,z);

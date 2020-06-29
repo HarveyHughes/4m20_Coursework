@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Question 1}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Kinematics}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Centre of Mass}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Question 2}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Joint Planning Algorithm}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Question 3}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Changes required}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Performance}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Dynamics model}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Kalman-filter}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Question 4}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Changes required}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Planning Algorithm}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.3}{Real world differences}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.4}{Performance}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Future additions}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{Dynamic model}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Trajectory optimisation}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Appendix}{}% 20
+\BOOKMARK [2][-]{subsection.7.1}{Code}{section.7}% 21
